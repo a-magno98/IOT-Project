@@ -13,7 +13,7 @@ communication infrastructure and middleware
 software components for data acquisition, storage and processing, dashboard and visualisation and main functionalities of the different components
 interaction schemes  (UML-like, state machine etc) that describe the main protocols needed in the system
 
-2) Implement a prototype of the architecture in Node.js and/or Node-red consisting of the following components:
+(2) Implement a prototype of the architecture in Node.js and/or Node-red consisting of the following components:
 
 software components for simulating the chosen set of sensors 
 middleware for data acquisition 
